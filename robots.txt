@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooghohdahf.naerdetalvor.no/sitemap.xml
